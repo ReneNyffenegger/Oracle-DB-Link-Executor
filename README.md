@@ -1,10 +1,10 @@
-# Execute queries on multiple databases using DB links
+# Execute queries on multiple Oracle databases using DB links
 
-Execute SQL statements across multiple databases over DB links.
+Execute SQL statements across multiple Oracle databases over DB links.
 
 ## Installation
 
-Define a prefix for the created database objects in `_defines.sql` and run `_install.sql` in SQL*Plus/SQLcd or SQL Developer.
+Define a prefix for the created database objects in `_defines.sql` and run `_install.sql` in SQL*Plus/SQLcl or SQL Developer.
 
 ## Dependencies
 
